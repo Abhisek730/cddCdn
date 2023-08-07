@@ -24,27 +24,7 @@ font-size: 28px;
 [icn-md]{
     font-size: 20px;
     }
-@import url("_root.css");
-@import url("_links.css");
-@import url("_listsImgVdo.css");
-@import url("_links.css");
-@import url("_preAndCode.css");
-@import url("_typography.css");
 
-@import url("_flex.css");
-@import url("_grid.css");
-@import url("_chat.css");
-@import url("_menus.css");
-@import url("_chart.css");
-@import url("_nav.css");
-@import url("_404.css");
-@import url("icon.css");
-@import url("margin.css");
-@import url("colors.css");
-@import url("pad.css");
-@import url("hover.css");
-@import url("_table.css");
-@import url("utils.css");
 
 
 [data-landing-page] {
