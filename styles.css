@@ -1,28 +1,4 @@
-@import url("./src/index.css");
-@import url("./Components/components.css");
 
-/* @import url("./Components/navbar/nav.css"); */
-/* @import url("./layouts/sidebar/layout.css"); */
-
-@import url(./Accordian/accordian.css);
-@import url(./Card2/card.css);
-/* @import url(./carousel/carousel.css); */
-@import url(./Picto/picto.css);
-@import url(./switch/switch.css);
-@import url(./Breadcrumbs/breadcrumbs.css);
-@import url(./switch/switch.css);
-@import url(./Tree/tree.css);
-@import url(./Tabs/tabs.css);
-@import url(./navbar/navbar.css);
-@import url(./sidebar/sidebar.css);
-@import url(./form/form.css);
-@import url(./calender/calender.css);
-@import url(./Search/search.css);
-@import url(./Table/table.css);
-@import url(./table_pagination/pagination.css);
-@import url(./banner/banner.css);
-@import url(./navTabs/navTabs.css);
-@import url(./button/button.css);
 [bg-primary]{
     background-color: #3E97FF !important;
     color: rgb(228 240 255)
